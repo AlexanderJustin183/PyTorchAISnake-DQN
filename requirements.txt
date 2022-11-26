@@ -1,0 +1,9 @@
+pygame
+numpy
+scipy
+torch==1.13.0+cu117
+torchvision
+torchaudio
+matplotlib
+wxpython
+enum
